@@ -2,7 +2,7 @@ Here’s a **`README.md`** file that includes both the traffic vehicle classific
 
 ---
 # Trần Mạnh Phúc - 22521142
-
+## Because of big file, please visit link: https://drive.google.com/drive/folders/1X_1DZiFmhfo93nKfb7nC5Tweoy69mTiy?usp=sharing
 ## 🚦 Traffic Vehicle Classification and 💎 Diamond Price Prediction
 
 This repository contains two machine learning projects:
